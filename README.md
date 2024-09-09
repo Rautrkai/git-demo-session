@@ -1,4 +1,4 @@
 # git-demo-session
-This is git session by Mayrika
+This is git session by Mayrika.
 <br>
-By author Kailas
+By author Kailas(Mayrika).
